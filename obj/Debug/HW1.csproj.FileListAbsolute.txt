@@ -1,0 +1,6 @@
+c:\users\ahmet\documents\visual studio 2012\Projects\HW1\HW1\bin\Debug\HW1.exe.config
+c:\users\ahmet\documents\visual studio 2012\Projects\HW1\HW1\bin\Debug\HW1.exe
+c:\users\ahmet\documents\visual studio 2012\Projects\HW1\HW1\bin\Debug\HW1.pdb
+c:\users\ahmet\documents\visual studio 2012\Projects\HW1\HW1\obj\Debug\HW1.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2012\Projects\HW1\HW1\obj\Debug\HW1.exe
+c:\users\ahmet\documents\visual studio 2012\Projects\HW1\HW1\obj\Debug\HW1.pdb
